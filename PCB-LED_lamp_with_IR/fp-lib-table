@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PCB-LED_lamp_with_IR)(type KiCad)(uri "$(KIPRJMOD)/PCB-LED_lamp_with_IR.pretty")(options "")(descr ""))
+)
