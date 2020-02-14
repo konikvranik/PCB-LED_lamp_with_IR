@@ -1,4 +1,4 @@
-update=Čt 13. února 2020, 19:01:54 CET
+update=Pá 14. února 2020, 22:40:36 CET
 version=1
 last_client=kicad
 [general]
@@ -256,7 +256,7 @@ PageLayoutDescrFile=PCB-LED_lamp_with_IR.kicad_wks
 PlotDirectoryName=
 SubpartIdSeparator=0
 SubpartFirstId=65
-NetFmtName=
+NetFmtName=Pcbnew
 SpiceAjustPassiveValues=0
 LabSize=50
 ERC_TestSimilarLabels=1
